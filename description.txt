@@ -1,0 +1,8 @@
+Szymon Szmajdziński
+https://github.com/Szmajasz/snars_competition
+D1-UNC.csv, 2.5064258575439453
+D2-UNC.csv, 22.963765859603882
+D3-UNC.csv, 4.184568881988525
+D1-K=2.csv, 0.12476897239685059
+D2-K=7.csv, 0.5367858409881592
+D3-K=12.csv, 8.905921936035156
